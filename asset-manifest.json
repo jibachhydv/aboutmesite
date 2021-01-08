@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/developerfolio/static/css/main.8d2bfe42.chunk.css",
+    "main.js": "/developerfolio/static/js/main.465e6dbd.chunk.js",
+    "main.js.map": "/developerfolio/static/js/main.465e6dbd.chunk.js.map",
+    "runtime-main.js": "/developerfolio/static/js/runtime-main.67520fa7.js",
+    "runtime-main.js.map": "/developerfolio/static/js/runtime-main.67520fa7.js.map",
+    "static/js/2.8dce1465.chunk.js": "/developerfolio/static/js/2.8dce1465.chunk.js",
+    "static/js/2.8dce1465.chunk.js.map": "/developerfolio/static/js/2.8dce1465.chunk.js.map",
+    "static/css/3.00373544.chunk.css": "/developerfolio/static/css/3.00373544.chunk.css",
+    "static/js/3.1986bd9d.chunk.js": "/developerfolio/static/js/3.1986bd9d.chunk.js",
+    "static/js/3.1986bd9d.chunk.js.map": "/developerfolio/static/js/3.1986bd9d.chunk.js.map",
+    "static/css/4.a922a401.chunk.css": "/developerfolio/static/css/4.a922a401.chunk.css",
+    "static/js/4.ee79a3d3.chunk.js": "/developerfolio/static/js/4.ee79a3d3.chunk.js",
+    "static/js/4.ee79a3d3.chunk.js.map": "/developerfolio/static/js/4.ee79a3d3.chunk.js.map",
+    "index.html": "/developerfolio/index.html",
+    "precache-manifest.02f28174e69ea83a88e363156492667d.js": "/developerfolio/precache-manifest.02f28174e69ea83a88e363156492667d.js",
+    "service-worker.js": "/developerfolio/service-worker.js",
+    "static/css/3.00373544.chunk.css.map": "/developerfolio/static/css/3.00373544.chunk.css.map",
+    "static/css/4.a922a401.chunk.css.map": "/developerfolio/static/css/4.a922a401.chunk.css.map",
+    "static/css/main.8d2bfe42.chunk.css.map": "/developerfolio/static/css/main.8d2bfe42.chunk.css.map",
+    "static/js/2.8dce1465.chunk.js.LICENSE.txt": "/developerfolio/static/js/2.8dce1465.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/developerfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMailDark.svg": "/developerfolio/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/developerfolio/static/media/developerActivity.59389695.svg",
+    "static/media/hackerrankLogo.png": "/developerfolio/static/media/hackerrankLogo.d38a06be.png",
+    "static/media/manOnTable.svg": "/developerfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/manakamanaLogo.jpeg": "/developerfolio/static/media/manakamanaLogo.fc4a0e43.jpeg",
+    "static/media/onestepnepalLogo.png": "/developerfolio/static/media/onestepnepalLogo.08d43085.png",
+    "static/media/skill.svg": "/developerfolio/static/media/skill.34409398.svg",
+    "static/media/sxcLogo.png": "/developerfolio/static/media/sxcLogo.95b88714.png",
+    "static/media/TalkCard.css": "/developerfolio/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67520fa7.js",
+    "static/js/2.8dce1465.chunk.js",
+    "static/css/main.8d2bfe42.chunk.css",
+    "static/js/main.465e6dbd.chunk.js"
+  ]
+}
